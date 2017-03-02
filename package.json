@@ -1,0 +1,28 @@
+{
+  "name": "varsity-demo-bot",
+  "version": "1.0.0",
+  "description": "demo bot for varsity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjamora/varsity-demo-bot.git"
+  },
+  "keywords": [
+    "demo",
+    "bot",
+    "varsity"
+  ],
+  "author": "anthony jamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjamora/varsity-demo-bot/issues"
+  },
+  "homepage": "https://github.com/anjamora/varsity-demo-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
